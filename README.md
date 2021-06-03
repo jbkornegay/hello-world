@@ -1,5 +1,5 @@
 # hello-world
-Items to share with the world.
+A little about me.
 
 Hi everyone,
 I am a new coder transistioning from Hardware Repair.  Learning Python and the Software Development process has been both enjoyable and informative .  
